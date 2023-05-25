@@ -11,15 +11,15 @@
 
 # Usage
 
-1. Make sure that your project PATH does not contain any of the Following: "spaces and symbols".
+1. Make sure that your project PATH does not contain any of the Following: "spaces and symbols".<br>
   Just a very simple path will do it as ex: "D:\projects\visual_studio_code\python\code_in_here".
 
-2. Install all required Libraries.
-  .OpenCV => pip install opencv-python
-  .Numpy =>pip install numpy
-  .GPIO => pip install RPi.GPIO
-  .Time => pip install python-time
+2. Install all required Libraries.<br>
+  .OpenCV => pip install opencv-python<br>
+  .Numpy =>pip install numpy<br>
+  .GPIO => pip install RPi.GPIO<br>
+  .Time => pip install python-time<br>
   
-3. Once you have done all of the previous steps and fully ready to run the code,
-  while you are in your editor either Vs Code or Pycharm or etc.
+3. Once you have done all of the previous steps and fully ready to run the code,<br>
+  while you are in your editor either Vs Code or Pycharm or etc.<br>
   Navigate to inside the "main" folder then in Terminal type "py mainRobot.py".
