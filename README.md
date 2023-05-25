@@ -11,7 +11,7 @@
 
 # Usage
 
-1. Make sure that your project PATH does not contain any of the Following spaces and symbols.
+1. Make sure that your project PATH does not contain any of the Following: "spaces and symbols".
   Just a very simple path will do it as ex: "D:\projects\visual_studio_code\python\code_in_here".
 
 2. Install all required Libraries.
