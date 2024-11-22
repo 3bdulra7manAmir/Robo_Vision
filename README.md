@@ -10,7 +10,6 @@ Note: Still in Beta Version.
 # Features
 
 -   well-handled Computer Vision code
-- 
 
 # Usage
 
